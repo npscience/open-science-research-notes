@@ -11,7 +11,7 @@ Slides are openly available, CC-BY eLife, at [bit.ly/eLife-at-CCBI-2018](http://
 # User research
 As part of the talk, I asked the audience (~80 researchers from across Cambridge departments and institutes, common interest: computational biology) to first reflect on:
 1. Why they share their research? ([Aims](#aims-for-sharing))
-2. How they share their research? Are there ways they hack the current system? ([Methods](#methods-for-sharing))
+2. How they share their research? Are there ways they hack the current system? ([Methods](#methods-of-sharing))
 
 I used post-it notes, set out around the room before the session for attendees to write on. I collected these post-it answers back in at the end and have collated the answers here, in case of interest or use to others. Some answers were repeated, I've not indicated quantities here.
 
