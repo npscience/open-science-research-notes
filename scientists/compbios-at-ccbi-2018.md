@@ -22,13 +22,14 @@ I used post-it notes, set out around the room before the session for attendees t
 * Dissemination of findings and methods and ideas. - to share and to seek validation. Create awareness.
 * Reach lots on people (incl. scientists). The take-home message should be accessible.
 * Add new info/understanding to the community. Impact: so society understands it and makes an impact on the lives of those who need it most. Advance science.
-* Get feedback. Invite inputs to improve the outcome.
+* Get feedback. Invite inputs to improve the outcome. Diversity in feedback - different viewpoints.
 * Reproducibility, quality control, validation, a reality check.
 * Encourage re-use (tools, code, open source) & improvement (analysis methods)
 * Encourage contributions/improvements (code/analysis methods/other); encourage people to build on your work. “Having someone solve the problems I could not.”
 * Get other people excited about the topics I’m passionate about
 * Generate new ideas, new directions for future work.
 * Skills exchange and connection.
+* Funding (requirement?)
 
 ## Methods of sharing
 
