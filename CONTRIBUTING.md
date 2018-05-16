@@ -1,6 +1,6 @@
 # Contributing
 
-*NOTE TO READER: We're currently using a standard contributing.md template. IF this kicks off, I'll design one more suited to this repo.*
+*NOTE TO READER: We're currently using a standard contributing.md template. If this kicks off, I'll design one more suited to this repo.*
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
