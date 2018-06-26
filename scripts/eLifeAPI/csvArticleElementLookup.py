@@ -1,6 +1,6 @@
 ##things to change:
 #columnA-C: your existing row 1 values as column headers
-#yourData.csv: your csv file
+#yourData.csv: your csv file - this needs to be stored in the same directory that your script is in.
 #responseData: you could call this something more appropriate for your API call, eg. articleDois (plural)
 #columnD: this will be the header for your new column; you could call this something more appropriate for your API call, eg. doi
 #response: you could call this something more appropriate for your API call, eg. articleDoi (singular)
