@@ -1,6 +1,3 @@
-import requests
-import pandas as pd
-
 ##things to change:
 #columnA-C: your existing row 1 values as column headers
 #yourData.csv: your csv file
@@ -8,12 +5,17 @@ import pandas as pd
 #columnD: this will be the header for your new column; you could call this something more appropriate for your API call, eg. doi
 #response: you could call this something more appropriate for your API call, eg. articleDoi (singular)
 #'published': this returns the publication date from the API. Find out which data element you wish to return in the API docs: https://api.elifesciences.org/documentation/
+
+##to run script, save this to local directory, make any changes required and save as new scriptname.py. Navigate to that directory in the command line. Check which version of python installed (python --version): if python v 2.X --> $ python scriptname.py or if python v3.x install --> $ python3 scriptname.py.
 ##to run checks, remove the hash before the code line to uncomment, and add hashes before lines you don't wish to run.
+
+import requests
+import pandas as pd
 
 ##import the list of article IDs you wish to check from a csv - credit to Stuart for this
 colnames = ['columnA','columnB','columnC'] #what are the column names in your csv? TODO: If your first row is column headers, list all of these here. If your first row is not column headers, you can name your columns as you wish (note the output csv will then contain those header rows).
 data = pd.read_csv('yourData.csv', names=colnames) #read in your csv file. TODO: change the filename here.
-article_ids = data.columnA.tolist()[1:] #create list of article IDs from the column in your spreadsheet that contains them (here columnA), removing the first row which is the column title. TODO: change columnA to the colname as defined on line 14 OR if no column headers, remove [1:].
+article_ids = data.columnA.tolist()[1:] #create list of article IDs from the column in your spreadsheet that contains them (here columnA), removing the first row which is the column title. TODO: change columnA to the colname as defined on line 16 OR if no column headers, remove [1:].
 responseData = ['columnD'] #create new list to add pubdates to, with first entry as first row name to act as your column header.
 
 #checks to run:
