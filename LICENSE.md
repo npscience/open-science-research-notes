@@ -1,7 +1,7 @@
-This work is licensed under a Creative Commons Attribution 4.0 International License.
+This work is released to the Public Domain (Creative Commons license CC0 1.0 Universal) **unless otherwise stated in the file**. In all cases, any license stated with a file takes precedence over this general license.
 
-All content of this repo is released under the CC-BY 4.0 license, with attribution required to **Naomi Penfold and eLife**.
+If you wish to attribute, please feel free to do so to myself, **Naomi Penfold**, and linkback to the original source.
 
-Read the [full-text of the license](https://creativecommons.org/licenses/by/4.0/legalcode), or a [succinct summary](https://creativecommons.org/licenses/by/4.0/).
+Read the [full-text of the license](https://creativecommons.org/publicdomain/zero/1.0/legalcode), or a [succinct summary](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Many thanks for Mozilla Science Lab and contributors for this license note: [https://github.com/mozillascience/WOW-2017/blob/master/LICENSE.md](https://github.com/mozillascience/WOW-2017/blob/master/LICENSE.md)
+With thanks to Mozilla Science Lab and contributors for the license note on which this one is loosely based: [https://github.com/mozillascience/WOW-2017/blob/master/LICENSE.md](https://github.com/mozillascience/WOW-2017/blob/master/LICENSE.md)
