@@ -1,13 +1,16 @@
 # :warning: LICENSE NOTE :warning:
+
 The contents of this file is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), with attribution required to Naomi Penfold for free text, and to the authors of the manuscript as listed below for quoted text. This license note supersedes the general license in this repo. This is to match the license applied to the original research work, given my notes are very close to their text and include direct quotes.
 
 # Source details
-Title: Assessment of the impact of shared brain imaging data on the scientific literature
-Authors: Michael P. Milham(corresponding), R. Cameron Craddock, Jake J. Son, Michael Fleischmann, Jon Clucas, Helen Xu, Bonhwang Koo, Anirudh Krishnakumar, Bharat B. Biswal, F. Xavier Castellanos, Stan Colcombe, Adriana Di Martino, Xi-Nian Zuo & Arno Klein
-Source DOI: https://doi.org/10.1038/s41467-018-04976-1 (OA)
-Resources: Code and data available at https://github.com/ChildMindInstitute/Biblio_Reader/blob/165ddc56779a5e55149184a0f95b7c14874cf0c5/biblio_reader/text_tools/text_tools.py
+
+* Title: Assessment of the impact of shared brain imaging data on the scientific literature
+* Authors: Michael P. Milham(corresponding), R. Cameron Craddock, Jake J. Son, Michael Fleischmann, Jon Clucas, Helen Xu, Bonhwang Koo, Anirudh Krishnakumar, Bharat B. Biswal, F. Xavier Castellanos, Stan Colcombe, Adriana Di Martino, Xi-Nian Zuo & Arno Klein
+* Source DOI: https://doi.org/10.1038/s41467-018-04976-1 (OA)
+* Resources: Code and data available at https://github.com/ChildMindInstitute/Biblio_Reader/blob/165ddc56779a5e55149184a0f95b7c14874cf0c5/biblio_reader/text_tools/text_tools.py :sparkles:
 
 # Notes
+
 The authors analysed publications arising from open neuroimaging data, a case study of the datasets in the International Neuroimaging Data-sharing Initiative (INDI): "FCP, NKI-RS, ADHD-200, ABIDE, and CoRR", to assess benefit of these open data projects.
 
 Of 913 publications found from 2010-2017:
