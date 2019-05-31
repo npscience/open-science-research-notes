@@ -1,4 +1,4 @@
-Place for notes about idea to improve access of authors to literature contributions & peer review, help readers find otherwise low visibility content (before it has cause to be low visibility). 
+Place for notes about idea to improve access of authors to literature contributions & peer review, help readers find otherwise low visibility content (before it has cause to be low visibility). Initial proposal written out for eLife Sprint 2019 application: [here](https://github.com/npscience/transparent-opportunities/blob/master/events/elife-sprint-2019.md).
 
 Useful to curate content, so that valid and high-quality work is more visible amongst lots of content with minimal filtering before it is shared on internet. Value of peer review to check/amend assertions before entry into 'body of scientific work'. See Bill Gates comment about this https://inews.co.uk/news/terry-pratchett-fake-news-internet-prediction-bill-gates/
 
@@ -13,11 +13,16 @@ Preprint discovery is dominated by twitter
 * not all scientists on or comfortable with twitter (prefer linkedin, researchgate, for professionalism?) -- the new reputation skill frontier
 * how to break beyond the twitter bubble?
 
+Other discovery mechanisms:
+* sign up for alerts, feeds, direct from server & from third-party tools
+e.g. PLOS monthly email, PreLights & PreLists, rxivist (trending preprints), twitter bots (@PromPreprints = promising preprints according to early social attention; SBotLite = RTs female first author preprints from biorxiv)
+third-party infrastructure design decisions: 
+* work with specific preprint servers (e.g. bioRxiv, which is largest atm --> platform dominance)
+
 Opportunities:
 * discovery of preprints beyond twitter network
 * identify preprints by authors who are less visible in traditional Global North publishing venues --> top of the pile for review, filtering?
-
-Proposal fleshed out for eLife Sprint 2019 application: [here](https://github.com/npscience/transparent-opportunities/blob/master/events/elife-sprint-2019.md).
+* identify preprints regardless of where posted? (so long as posted somewhere with ethical screening, archiving, withdrawal processes?)
 
 Existing tools / initiatives
 * Open Knowledge Maps indicate increasing visibility of African research as reason for partnering with AfricArxiv: https://info.africarxiv.org/strategic-partnership-with-open-knowledge-maps/
