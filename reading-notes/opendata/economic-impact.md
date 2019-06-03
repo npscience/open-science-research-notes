@@ -11,6 +11,7 @@ The contents of this file is licensed under a [Creative Commons Attribution 4.0 
 * Authors: Michael J Fell
 * Source DOI: https://doi.org/10.20944/preprints201905.0302.v1 (preprints.org)
 * Cite as: Fell, M.J. The Economic Impacts of Open Science: A Rapid Evidence Assessment. Preprints 2019, 2019050302 (doi: 10.20944/preprints201905.0302.v1). Preprinted May 27 2019.
+* Read & noted on May 3, 2019
 
 # Notes
 
