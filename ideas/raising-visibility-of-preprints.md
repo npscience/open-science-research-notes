@@ -19,6 +19,8 @@ e.g. PLOS monthly email, PreLights & PreLists, rxivist (trending preprints), twi
 third-party infrastructure design decisions: 
 * work with specific preprint servers (e.g. bioRxiv, which is largest atm --> platform dominance)
 
+New data: US authors (first and last) are over-represented in authorship of journal articles that were previously deposited to biorxiv (nov 2013-Dec 2017) while female authors are under-represented: https://www.biorxiv.org/content/10.1101/673665v1.full
+
 Opportunities:
 * discovery of preprints beyond twitter network
 * identify preprints by authors who are less visible in traditional Global North publishing venues --> top of the pile for review, filtering?
