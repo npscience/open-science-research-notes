@@ -1,7 +1,15 @@
+These notes are very basic, early, draft versions. Reuse at your peril!
 
+# The vision
+* Fair Open Access Principles -- https://www.fairopenaccess.org/the-fair-open-access-principles/
+* AmeliCA: global south perspective.
+* Plan S: european perspective, lots of dialogue. Criticism = focus on author-pays-APC model (even if funders subs this), check update to see if renewed focus on green OA. Criticism from global south: high pricing structure would exclude contributions from researchers with low/no funding.
+* Plan U: funders mandate preprints -- this funds access to initial content but doesn't fund peer review
 
+# The current situation
 Many journals publish more magazine content than original research articles: https://twitter.com/brembs/status/1144168071332073473
-Bjorn Brembs, June 27, 2019: "GlamMagz really are *magazines* - low orig. research content. Articles in 2017:
+Bjorn Brembs, June 27, 2019: 
+"GlamMagz really are *magazines* - low orig. research content. Articles in 2017:
 @TheLancet 302/1595, 19%
 @NEJM 327/1449, 23%
 @sciencemagazine  769/2629, 29%
