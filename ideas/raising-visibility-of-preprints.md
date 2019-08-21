@@ -1,3 +1,5 @@
+**UPDATE: this discussion has moved to its own repo now: https://github.com/npscience/equitable-preprints**
+
 Place for notes about idea to improve access of authors to literature contributions & peer review, help readers find otherwise low visibility content (before it has cause to be low visibility). Initial proposal written out for eLife Sprint 2019 application: [here](https://github.com/npscience/transparent-opportunities/blob/master/events/elife-sprint-2019.md) and copied below in italics.
 
 Useful to curate content, so that valid and high-quality work is more visible amongst lots of content with minimal filtering before it is shared on internet. Value of peer review to check/amend assertions before entry into 'body of scientific work'. See Bill Gates comment about this https://inews.co.uk/news/terry-pratchett-fake-news-internet-prediction-bill-gates/
